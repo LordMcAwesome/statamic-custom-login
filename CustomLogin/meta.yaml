@@ -1,0 +1,5 @@
+name: CustomLogin
+version: '0.1'
+description: 'Create a custom login for AJAX requests'
+developer: 'Marven Thieme'
+developer_url: marven-thieme.de
